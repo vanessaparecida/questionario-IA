@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "você é uma pessoa que consegue e tem energia para correr por horas ou prefere ficar mais parado?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "consigo correr por horas, tenho energia de sobra!",
+                afirmacao: "O seu esporte perfeito seria o futebol, pois corre muito e exige energia e fôlego. No futebol tem um campo de grama apresenta 105 metros de comprimento por 68 metros de largura, uma padronização da Fifa, então os jogadores precisam praticar exercícios"
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "gosto de ficar mais parado, prefiro fazer movimentos mais precisos como pular, correr em poucos casos!",
+                afirmacao: "O seu esporte perfeito seria o vôlei de quadra, onde não precisa de tanto movimentos quanto o futebol. No vôlei a regra é nao deixar a bola cair dentro da sua quadra, ema lguns caso é preciso correr, mas normalmente a bola vem em sua direção."
             }
         ]
     },
